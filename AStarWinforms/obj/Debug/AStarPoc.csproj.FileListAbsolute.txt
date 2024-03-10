@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\bin\Debug\AStarPoc.exe.config
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\bin\Debug\AStarPoc.exe
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\bin\Debug\AStarPoc.pdb
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.FrmMain.resources
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.exe
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarPoc\AStarPoc\obj\Debug\AStarPoc.pdb

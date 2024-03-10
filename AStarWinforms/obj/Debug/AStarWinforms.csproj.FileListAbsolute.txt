@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\bin\Debug\AStarPoc.exe.config
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\bin\Debug\AStarPoc.exe
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\bin\Debug\AStarPoc.pdb
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarWinforms.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarPoc.FrmMain.resources
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarPoc.Properties.Resources.resources
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarWinforms.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarWinforms.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarPoc.exe
+C:\Users\Administrator\Desktop\stackoverflow\astar\AStarWinforms\AStarWinforms\obj\Debug\AStarPoc.pdb
